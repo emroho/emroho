@@ -10,9 +10,9 @@ You can find more details in my [portfolio page](https://emroho.github.io).
 
 ## Featured Projects
 
-- Python ML analysis [repo](https://github.com/emroho/ChronicKidneyDisease)
-- Python classification model [repo](https://github.com/emroho/PlantGrowthStressors)
-- SQL analytics notebook [repo](https://github.com/emroho/aws-nyc311-hopki219)
+- Python ML analysis (https://github.com/emroho/ChronicKidneyDisease)
+- Python classification model (https://github.com/emroho/PlantGrowthStressors)
+- SQL analytics notebook (https://github.com/emroho/aws-nyc311-hopki219)
 
 ## Skills
 
