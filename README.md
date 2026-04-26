@@ -1,12 +1,12 @@
 # Hi, I'm Emma!
 
-Aspiring data scientist | SQL, Python, Git, reproducible workflows
+Data Scientist | Python, Git, Sql, reproducible workflows
 
 ## About
 
-Building end-to-end data pipelines for business problems. Coursework in modern tools based on industry needs.
+Creating analytical solutions for business problems. Coursework in modern tools based on industry needs.
 
-You can find more details one my [portfolio page](https://emroho.github.io).
+You can find more details in my [portfolio page](https://emroho.github.io).
 
 ## Featured Projects
 
