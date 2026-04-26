@@ -10,8 +10,9 @@ You can find more details one my [portfolio page](https://emroho.github.io).
 
 ## Featured Projects
 
-- SQL analytics notebook (link to pinned repo)
-- Python ETL pipeline (link to pinned repo)
+- Python ML analysis [repo](https://github.com/emroho/ChronicKidneyDisease)
+- Python classification model [repo](https://github.com/emroho/PlantGrowthStressors)
+- SQL analytics notebook [repo](https://github.com/emroho/aws-nyc311-hopki219)
 
 ## Skills
 
